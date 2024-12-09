@@ -1,1 +1,2 @@
-Ceci est un texte pour la formation de github et git.
+# Bienvenue
+Programme Java qui affiche le nom de l’étudiant en utilisant la classe SimpleTesting ()`.
